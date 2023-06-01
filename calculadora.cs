@@ -8,7 +8,7 @@ public class Calculadora{
     {
         valor = 0;
     }
-
+nhjjh
     public double Resultado { get => valor; }
 
     public void Suma(double sumando){
